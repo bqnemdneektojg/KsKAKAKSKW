@@ -1,0 +1,3 @@
+TOKEN = '6554753587:AAEMst_MRmNOz8wQj7cc4TiDwu8DVRlajLg'
+aids = []
+CRYPTOPAY_TOKEN = ""
